@@ -1,2 +1,2 @@
-# Czechify_MC_Login
+# czechify_mc_login_plugin
  
